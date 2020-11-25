@@ -1,0 +1,22 @@
+{
+  "name": "teaus4",
+  "version": "1.2.8",
+  "description": "```js $ npm install teaus4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Ошибка\""
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "3.0.0",
+    "discord.js": "~12.2.0",
+    "moment": "2.27.0",
+    "ms": "2.1.2",
+    "node-fetch": "2.6.0",
+    "parse-ms": "2.1.0",
+    "quick.db": "~7.1.1",
+    "teaus4": "1.2.8"
+  },
+  "keywords": [],
+  "author": "smalltea",
+  "license": "ISC"
+}
